@@ -7,11 +7,8 @@ Every day I will solve 5 problems. Each problem will be in a different category 
 #Day 1 (04/21/2021): 
  Problem | Solution
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-  1. [Weird Algorithm](https://cses.fi/problemset/task/1068): [solution](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/WeirdAlgorithm.cpp)
-  2. [Distinct Numbers](https://cses.fi/problemset/task/1621): [solution](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/DistinctNumbers.cpp)
-  3. [Dice Combinations](https://cses.fi/problemset/task/1633): [solution](https://github.com/rangelp/CSES/tree/main/Dynamic%20Programming)
-  4. [Counting Rooms](https://cses.fi/problemset/task/1192): [solution](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/CountingRooms.cpp)
-  5. [Static Range Sum Queries](https://cses.fi/problemset/task/1646): [solution](https://github.com/rangelp/CSES/blob/main/Range%20Queries/StaticRangeSumQueries.cpp)
+[Weird Algorithm](https://cses.fi/problemset/task/1068) | [Ad-Hoc: my solution](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/WeirdAlgorithm.cpp)
+[Distinct Numbers](https://cses.fi/problemset/task/1621) | [std::set: my solution](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/DistinctNumbers.cpp)
+[Dice Combinations](https://cses.fi/problemset/task/1633) | [Dynamic Programming: my solution](https://github.com/rangelp/CSES/tree/main/Dynamic%20Programming)
+[Counting Rooms](https://cses.fi/problemset/task/1192) | [Flood-Fill: my solution](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/CountingRooms.cpp)
+[Static Range Sum Queries](https://cses.fi/problemset/task/1646) | [1D-Prefix Sum: my solution](https://github.com/rangelp/CSES/blob/main/Range%20Queries/StaticRangeSumQueries.cpp)
