@@ -4,6 +4,8 @@ This is a personal challenge, that is, it will not always have the best solution
 
 Every day I will solve 5 problems. Each problem will be in a different category (as long as possible) and I will always take the problem from the top of the list that I have not yet solved.
 
+Solved: 5/300
+
 #Day 1 (04/21/2021): 
  Problem | Solution
 ------------ | -------------
