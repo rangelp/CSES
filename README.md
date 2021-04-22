@@ -14,3 +14,8 @@ Solved: 5/300
 [Dice Combinations](https://cses.fi/problemset/task/1633) | [Dynamic Programming: my solution](https://github.com/rangelp/CSES/tree/main/Dynamic%20Programming)
 [Counting Rooms](https://cses.fi/problemset/task/1192) | [Flood-Fill: my solution](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/CountingRooms.cpp)
 [Static Range Sum Queries](https://cses.fi/problemset/task/1646) | [1D-Prefix Sum: my solution](https://github.com/rangelp/CSES/blob/main/Range%20Queries/StaticRangeSumQueries.cpp)
+
+#Day 2 (04/22/2021): 
+ Problem | Solution
+------------ | -------------
+[Subordinates](https://cses.fi/problemset/task/1674) | [DFS on DAG: my solution](https://github.com/rangelp/CSES/blob/main/Tree%20Algorithms/Subordinates.cpp)
