@@ -9,20 +9,20 @@ Solved: 10/300
 #Day 1: 
  Problem | Solution
 ------------ | -------------
-[Weird Algorithm](https://cses.fi/problemset/task/1068) | [Ad-Hoc: my solution](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/WeirdAlgorithm.cpp)
-[Distinct Numbers](https://cses.fi/problemset/task/1621) | [std::set: my solution](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/DistinctNumbers.cpp)
-[Dice Combinations](https://cses.fi/problemset/task/1633) | [Dynamic Programming: my solution](https://github.com/rangelp/CSES/tree/main/Dynamic%20Programming)
-[Counting Rooms](https://cses.fi/problemset/task/1192) | [Flood-Fill: my solution](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/CountingRooms.cpp)
-[Static Range Sum Queries](https://cses.fi/problemset/task/1646) | [1D-Prefix Sum: my solution](https://github.com/rangelp/CSES/blob/main/Range%20Queries/StaticRangeSumQueries.cpp)
+[Weird Algorithm](https://cses.fi/problemset/task/1068) | [Ad-Hoc](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/WeirdAlgorithm.cpp)
+[Distinct Numbers](https://cses.fi/problemset/task/1621) | [std::set](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/DistinctNumbers.cpp)
+[Dice Combinations](https://cses.fi/problemset/task/1633) | [Dynamic Programming](https://github.com/rangelp/CSES/tree/main/Dynamic%20Programming)
+[Counting Rooms](https://cses.fi/problemset/task/1192) | [Flood-Fill](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/CountingRooms.cpp)
+[Static Range Sum Queries](https://cses.fi/problemset/task/1646) | [1D-Prefix Sum](https://github.com/rangelp/CSES/blob/main/Range%20Queries/StaticRangeSumQueries.cpp)
 
 #Day 2: 
  Problem | Solution
 ------------ | -------------
-[Subordinates](https://cses.fi/problemset/task/1674) | [DFS on DAG: my solution](https://github.com/rangelp/CSES/blob/main/Tree%20Algorithms/Subordinates.cpp)
-[Dynamic Range Sum Queries](https://cses.fi/problemset/task/1648) | [Fenwick: my solution](https://github.com/rangelp/CSES/blob/main/Range%20Queries/DynamicRangeSumQueries.cpp)
-[Missing Number](https://cses.fi/problemset/task/1083) | [Xor prop: my solution](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/MissingNumber.cpp)
-[Mathematics](https://cses.fi/problemset/task/1095) | [Modular exponentiation: my solution](https://github.com/rangelp/CSES/blob/main/Mathematics/Exponentiation.cpp)
-[Investigation](https://cses.fi/problemset/task/1202) | [Dijkstra: my solution](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/Investigation.cpp)
+[Subordinates](https://cses.fi/problemset/task/1674) | [DFS on DAG](https://github.com/rangelp/CSES/blob/main/Tree%20Algorithms/Subordinates.cpp)
+[Dynamic Range Sum Queries](https://cses.fi/problemset/task/1648) | [Fenwick](https://github.com/rangelp/CSES/blob/main/Range%20Queries/DynamicRangeSumQueries.cpp)
+[Missing Number](https://cses.fi/problemset/task/1083) | [Xor prop](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/MissingNumber.cpp)
+[Mathematics](https://cses.fi/problemset/task/1095) | [Modular exponentiation](https://github.com/rangelp/CSES/blob/main/Mathematics/Exponentiation.cpp)
+[Investigation](https://cses.fi/problemset/task/1202) | [Dijkstra](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/Investigation.cpp)
 
 
 #Day 3: 
