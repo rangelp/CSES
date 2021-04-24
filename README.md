@@ -15,7 +15,7 @@ Solved: 10/300
 [Counting Rooms](https://cses.fi/problemset/task/1192) | [Flood-Fill: my solution](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/CountingRooms.cpp)
 [Static Range Sum Queries](https://cses.fi/problemset/task/1646) | [1D-Prefix Sum: my solution](https://github.com/rangelp/CSES/blob/main/Range%20Queries/StaticRangeSumQueries.cpp)
 
-#Day 2 (04/22/2021): 
+#Day 2: 
  Problem | Solution
 ------------ | -------------
 [Subordinates](https://cses.fi/problemset/task/1674) | [DFS on DAG: my solution](https://github.com/rangelp/CSES/blob/main/Tree%20Algorithms/Subordinates.cpp)
@@ -23,3 +23,9 @@ Solved: 10/300
 [Missing Number](https://cses.fi/problemset/task/1083) | [Xor prop: my solution](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/MissingNumber.cpp)
 [Mathematics](https://cses.fi/problemset/task/1095) | [Modular exponentiation: my solution](https://github.com/rangelp/CSES/blob/main/Mathematics/Exponentiation.cpp)
 [Investigation](https://cses.fi/problemset/task/1202) | [Dijkstra: my solution](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/Investigation.cpp)
+
+
+#Day 3: 
+ Problem | Solution
+------------ | -------------
+|
