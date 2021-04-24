@@ -4,16 +4,16 @@ This is a personal challenge, that is, it will not always have the best solution
 
 Every day I will solve 5 problems. Each problem will be in a different category (as long as possible) and I will always take the problem from the top of the list that I have not yet solved.
 
-Solved: 10/300
+Solved: 15/300
 
 #Day 1: 
  Problem | Solution
 ------------ | -------------
 [Weird Algorithm](https://cses.fi/problemset/task/1068) | [Ad-Hoc](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/WeirdAlgorithm.cpp)
 [Distinct Numbers](https://cses.fi/problemset/task/1621) | [std::set](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/DistinctNumbers.cpp)
-[Dice Combinations](https://cses.fi/problemset/task/1633) | [Dynamic Programming](https://github.com/rangelp/CSES/tree/main/Dynamic%20Programming)
-[Counting Rooms](https://cses.fi/problemset/task/1192) | [Flood-Fill](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/CountingRooms.cpp)
-[Static Range Sum Queries](https://cses.fi/problemset/task/1646) | [1D-Prefix Sum](https://github.com/rangelp/CSES/blob/main/Range%20Queries/StaticRangeSumQueries.cpp)
+[Dice Combinations](https://cses.fi/problemset/task/1633) | [Dynamic programming](https://github.com/rangelp/CSES/tree/main/Dynamic%20Programming)
+[Counting Rooms](https://cses.fi/problemset/task/1192) | [Flood-fill](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/CountingRooms.cpp)
+[Static Range Sum Queries](https://cses.fi/problemset/task/1646) | [1D-Prefix sum](https://github.com/rangelp/CSES/blob/main/Range%20Queries/StaticRangeSumQueries.cpp)
 
 #Day 2: 
  Problem | Solution
@@ -28,4 +28,8 @@ Solved: 10/300
 #Day 3: 
  Problem | Solution
 ------------ | -------------
-|
+[Apartments](https://cses.fi/problemset/task/1084) | [Two pointers](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/Apartments.cpp)
+[Minimizing Coins](https://cses.fi/problemset/task/1634) | [Dynamic programming (coin change)](https://github.com/rangelp/CSES/tree/main/Dynamic%20Programming)
+[Labyrinth](https://cses.fi/problemset/task/1193/) | [BFS and recovery](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/MissingNumber.cpp)
+[Static Range Minimum Queries](https://cses.fi/problemset/task/1647) | [Segtree](https://github.com/rangelp/CSES/blob/main/Range%20Queries/StaticRangeMinimumQueries.cpp)
+[Repetitions](https://cses.fi/problemset/task/1069) | [Greedy](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/Repetitions.cpp)
