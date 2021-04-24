@@ -6,7 +6,7 @@ Every day I will solve 5 problems. Each problem will be in a different category 
 
 Solved: 5/300
 
-#Day 1 (04/21/2021): 
+#Day 1: 
  Problem | Solution
 ------------ | -------------
 [Weird Algorithm](https://cses.fi/problemset/task/1068) | [Ad-Hoc: my solution](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/WeirdAlgorithm.cpp)
@@ -19,3 +19,7 @@ Solved: 5/300
  Problem | Solution
 ------------ | -------------
 [Subordinates](https://cses.fi/problemset/task/1674) | [DFS on DAG: my solution](https://github.com/rangelp/CSES/blob/main/Tree%20Algorithms/Subordinates.cpp)
+[Dynamic Range Sum Queries](https://cses.fi/problemset/task/1648) | [Fenwick: my solution](https://github.com/rangelp/CSES/blob/main/Range%20Queries/DynamicRangeSumQueries.cpp)
+[Missing Number](https://cses.fi/problemset/task/1083) | [Xor prop: my solution](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/MissingNumber.cpp)
+[Mathematics](https://cses.fi/problemset/task/1095) | [Modular exponentiation: my solution](https://github.com/rangelp/CSES/blob/main/Mathematics/Exponentiation.cpp)
+[Mathematics](https://cses.fi/problemset/task/1095) | [Modular exponentiation: my solution](https://github.com/rangelp/CSES/blob/main/Mathematics/Exponentiation.cpp)
