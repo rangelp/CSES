@@ -4,7 +4,7 @@ This is a personal challenge, that is, it will not always have the best solution
 
 Every day I will solve 5 problems. Each problem will be in a different category (as long as possible) and I will always take the problem from the top of the list that I have not yet solved.
 
-Solved: 15/300
+Solved: 16/300
 
 #Day 1: 
  Problem | Solution
@@ -33,3 +33,10 @@ Solved: 15/300
 [Labyrinth](https://cses.fi/problemset/task/1193/) | [BFS and recovery](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/MissingNumber.cpp)
 [Static Range Minimum Queries](https://cses.fi/problemset/task/1647) | [Segtree](https://github.com/rangelp/CSES/blob/main/Range%20Queries/StaticRangeMinimumQueries.cpp)
 [Repetitions](https://cses.fi/problemset/task/1069) | [Greedy](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/Repetitions.cpp)
+
+
+#Day 4: 
+ Problem | Solution
+------------ | -------------
+[Tree Distances I](https://cses.fi/problemset/task/1132) | [Diameter of Graph](https://github.com/rangelp/CSES/blob/main/Tree%20Algorithms/TreeDistancesI.cpp)
+
