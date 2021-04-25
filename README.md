@@ -40,3 +40,4 @@ Solved: 16/300
 ------------ | -------------
 [Tree Distances I](https://cses.fi/problemset/task/1132) | [Diameter of Graph](https://github.com/rangelp/CSES/blob/main/Tree%20Algorithms/TreeDistancesI.cpp)
 [Increasing Array](https://cses.fi/problemset/task/1094/) | [Greedy](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/IncreasingArray.cpp)
+[Ferris Wheel](https://cses.fi/problemset/task/1090/) | [Two pointers](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/FerrisWheel.cpp)
