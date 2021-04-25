@@ -4,7 +4,7 @@ This is a personal challenge, that is, it will not always have the best solution
 
 Every day I will solve 5 problems. Each problem will be in a different category (as long as possible) and I will always take the problem from the top of the list that I have not yet solved.
 
-Solved: 16/300
+Solved: 20/300
 
 #Day 1: 
  Problem | Solution
@@ -42,3 +42,4 @@ Solved: 16/300
 [Increasing Array](https://cses.fi/problemset/task/1094/) | [Greedy](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/IncreasingArray.cpp)
 [Ferris Wheel](https://cses.fi/problemset/task/1090/) | [Two pointers](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/FerrisWheel.cpp)
 [Coin Combinations I](https://cses.fi/problemset/task/1635/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/CoinCombinationsI.cpp)
+[Building Roads](https://cses.fi/problemset/task/1666/) | [DFS](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/BuildingRoads.cpp)
