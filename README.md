@@ -47,5 +47,5 @@ Solved: 20/300
 #Day 5: 
  Problem | Solution
 ------------ | -------------
-[TExponentiation II](https://cses.fi/problemset/task/1712) | [Modular exponentiation and Euler's Totient](https://github.com/rangelp/CSES/blob/main/Mathematics/ExponentiationII.cpp)
+[Exponentiation II](https://cses.fi/problemset/task/1712) | [Modular exponentiation and Euler's Totient](https://github.com/rangelp/CSES/blob/main/Mathematics/ExponentiationII.cpp)
 [Two Sets](https://cses.fi/problemset/task/1092/) | [Greedy](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/TwoSets.cpp)
