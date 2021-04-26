@@ -1,4 +1,4 @@
-These are my solutions to the problems of the [CSES](https://cses.fi/problemset/) website.
+These are my [CSES](https://cses.fi/problemset/) solutions.
 
 This is a personal challenge, that is, it will not always have the best solution, but a solution that has passed through time. :D
 
