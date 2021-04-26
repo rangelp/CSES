@@ -43,3 +43,9 @@ Solved: 20/300
 [Ferris Wheel](https://cses.fi/problemset/task/1090/) | [Two pointers](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/FerrisWheel.cpp)
 [Coin Combinations I](https://cses.fi/problemset/task/1635/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/CoinCombinationsI.cpp)
 [Building Roads](https://cses.fi/problemset/task/1666/) | [DFS](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/BuildingRoads.cpp)
+
+#Day 5: 
+ Problem | Solution
+------------ | -------------
+[TExponentiation II](https://cses.fi/problemset/task/1712) | [Modular exponentiation and Euler's Totient](https://github.com/rangelp/CSES/blob/main/Mathematics/ExponentiationII.cpp)
+[Two Sets](https://cses.fi/problemset/task/1092/) | [Greedy](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/TwoSets.cpp)
