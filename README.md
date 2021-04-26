@@ -50,3 +50,4 @@ Solved: 20/300
 [Exponentiation II](https://cses.fi/problemset/task/1712) | [Modular exponentiation and Euler's Totient](https://github.com/rangelp/CSES/blob/main/Mathematics/ExponentiationII.cpp)
 [Two Sets](https://cses.fi/problemset/task/1092/) | [Greedy](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/TwoSets.cpp)
 [Meet in the Middle](https://cses.fi/problemset/task/1628/) | [Meet in the middle and custom hash](https://github.com/rangelp/CSES/tree/main/Advanced%20Techniques)
+[Permutations](https://cses.fi/problemset/task/1070/) | [Greedy](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/Permutations.cpp)
