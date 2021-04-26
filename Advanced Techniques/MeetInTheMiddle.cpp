@@ -39,7 +39,7 @@ void getAll(int n1, int c, int fg){
 		}
 		if(fg == 0)
 			sts[s]++;
-		else if(sts.count(x-s))
+		else if(sts.find(x-s) != sts.end())
 			ans += sts[x-s];
 	}
 }
