@@ -4,7 +4,7 @@ This is a personal challenge, that is, it will not always have the best solution
 
 Every day I will solve 5 problems.
 
-Solved: 20/300
+Solved: 25/300
 
 #Day 1: 
  Problem | Solution
@@ -51,3 +51,4 @@ Solved: 20/300
 [Two Sets](https://cses.fi/problemset/task/1092/) | [Greedy](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/TwoSets.cpp)
 [Meet in the Middle](https://cses.fi/problemset/task/1628/) | [Meet in the middle and custom hash](https://github.com/rangelp/CSES/blob/main/Advanced%20Techniques/MeetInTheMiddle.cpp)
 [Permutations](https://cses.fi/problemset/task/1070/) | [Greedy](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/Permutations.cpp)
+[Shortest Subsequence](https://cses.fi/problemset/task/1087/) | [Greedy](https://github.com/rangelp/CSES/blob/main/Additional%20Problems/ShortestSubsequence.cpp)
