@@ -29,7 +29,7 @@ Solved: 20/300
  Problem | Solution
 ------------ | -------------
 [Apartments](https://cses.fi/problemset/task/1084) | [Two pointers](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/Apartments.cpp)
-[Minimizing Coins](https://cses.fi/problemset/task/1634) | [Dynamic programming (coin change)](https://github.com/rangelp/CSES/tree/main/Dynamic%20Programming)
+[Minimizing Coins](https://cses.fi/problemset/task/1634) | [Dynamic programming (coin change)](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/MinimizingCoins.cpp
 [Labyrinth](https://cses.fi/problemset/task/1193/) | [BFS and recovery](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/MissingNumber.cpp)
 [Static Range Minimum Queries](https://cses.fi/problemset/task/1647) | [Segtree](https://github.com/rangelp/CSES/blob/main/Range%20Queries/StaticRangeMinimumQueries.cpp)
 [Repetitions](https://cses.fi/problemset/task/1069) | [Greedy](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/Repetitions.cpp)
