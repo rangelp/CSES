@@ -52,3 +52,8 @@ Solved: 25/300
 [Meet in the Middle](https://cses.fi/problemset/task/1628/) | [Meet in the middle and custom hash](https://github.com/rangelp/CSES/blob/main/Advanced%20Techniques/MeetInTheMiddle.cpp)
 [Permutations](https://cses.fi/problemset/task/1070/) | [Greedy](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/Permutations.cpp)
 [Shortest Subsequence](https://cses.fi/problemset/task/1087/) | [Greedy](https://github.com/rangelp/CSES/blob/main/Additional%20Problems/ShortestSubsequence.cpp)
+
+#Day 6: 
+ Problem | Solution
+------------ | -------------
+[String Matching](https://cses.fi/problemset/task/1753) | [KMP](https://github.com/rangelp/CSES/blob/main/String%20Algorithms/StringMatching.cpp)
