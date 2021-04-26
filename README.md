@@ -11,7 +11,7 @@ Solved: 20/300
 ------------ | -------------
 [Weird Algorithm](https://cses.fi/problemset/task/1068) | [Ad-Hoc](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/WeirdAlgorithm.cpp)
 [Distinct Numbers](https://cses.fi/problemset/task/1621) | [std::set](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/DistinctNumbers.cpp)
-[Dice Combinations](https://cses.fi/problemset/task/1633) | [Dynamic programming](https://github.com/rangelp/CSES/tree/main/Dynamic%20Programming)
+[Dice Combinations](https://cses.fi/problemset/task/1633) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/DiceCombinations.cpp)
 [Counting Rooms](https://cses.fi/problemset/task/1192) | [Flood-fill](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/CountingRooms.cpp)
 [Static Range Sum Queries](https://cses.fi/problemset/task/1646) | [1D-Prefix sum](https://github.com/rangelp/CSES/blob/main/Range%20Queries/StaticRangeSumQueries.cpp)
 
