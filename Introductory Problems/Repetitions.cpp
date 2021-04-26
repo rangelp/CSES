@@ -4,7 +4,7 @@ using namespace std;
  
 #define all(x) x.begin(), x.end()
 #define sz(x) i(int) x.size()
-#define endl "\n"
+#define endl '\n'
  
 typedef long long ll;
 typedef unsigned long long ull;
