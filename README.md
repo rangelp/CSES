@@ -57,3 +57,4 @@ Solved: 25/300
  Problem | Solution
 ------------ | -------------
 [String Matching](https://cses.fi/problemset/task/1753) | [KMP](https://github.com/rangelp/CSES/blob/main/String%20Algorithms/StringMatching.cpp)
+[Point Location Test](https://cses.fi/problemset/task/2189/) | [Geometry: orientation](https://github.com/rangelp/CSES/blob/main/Geometry/PointLocationTest.cpp)
