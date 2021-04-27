@@ -60,3 +60,4 @@ Solved: 25/300
 [Point Location Test](https://cses.fi/problemset/task/2189/) | [Geometry: orientation](https://github.com/rangelp/CSES/blob/main/Geometry/PointLocationTest.cpp)
 [Coin Combinations II](https://cses.fi/problemset/task/1636/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/CoinCombinationsII.cpp)
 [Dynamic Range Minimum Queries](https://cses.fi/problemset/task/1649/) | [Segtree](https://github.com/rangelp/CSES/blob/main/Range%20Queries/DynamicRangeMinimumQueries.cpp)
+[Number Spiral](https://cses.fi/problemset/task/1071/) | [Math](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/NumberSpiral.cpp)
