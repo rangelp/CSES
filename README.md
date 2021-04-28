@@ -1,6 +1,6 @@
 These are my [CSES](https://cses.fi/problemset/) solutions.
 
-This is a personal challenge, that is, it will not always have the best solution, but a solution that has passed through time. :D
+This is a personal challenge, that is, it will not always have the best solution, but a solution that has passed on time. :D
 
 Every day I will solve 5 problems.
 
@@ -61,3 +61,8 @@ Solved: 30/300
 [Coin Combinations II](https://cses.fi/problemset/task/1636/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/CoinCombinationsII.cpp)
 [Dynamic Range Minimum Queries](https://cses.fi/problemset/task/1649/) | [Segtree](https://github.com/rangelp/CSES/blob/main/Range%20Queries/DynamicRangeMinimumQueries.cpp)
 [Number Spiral](https://cses.fi/problemset/task/1071/) | [Math](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/NumberSpiral.cpp)
+
+#Day 7: 
+ Problem | Solution
+------------ | -------------
+[Two Knights](https://cses.fi/problemset/task/1072) | [Math](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/TwoKnights.cpp)
