@@ -66,3 +66,4 @@ Solved: 30/300
  Problem | Solution
 ------------ | -------------
 [Two Knights](https://cses.fi/problemset/task/1072) | [Math](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/TwoKnights.cpp)
+[Bit Strings](https://cses.fi/problemset/task/1617) | [Mod](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/BitStrings.cpp)
