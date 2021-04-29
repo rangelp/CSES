@@ -76,3 +76,4 @@ Solved: 30/300
 ------------ | -------------
 [Counting Divisors](https://cses.fi/problemset/task/1713/) | [Divisors O(sqrt(n))](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/TwoKnights.cpp)
 [Removing Digits](https://cses.fi/problemset/task/1637/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/RemovingDigits.cpp)
+[Tree Diameter](https://cses.fi/problemset/task/1131/) :| [BFS](https://github.com/rangelp/CSES/blob/main/Tree%20Algorithms/TreeDiameter.cpp)
