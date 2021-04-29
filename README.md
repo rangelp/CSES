@@ -75,3 +75,4 @@ Solved: 30/300
  Problem | Solution
 ------------ | -------------
 [Counting Divisors](https://cses.fi/problemset/task/1713/) | [Divisors O(sqrt(n))](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/TwoKnights.cpp)
+[Removing Digits](https://cses.fi/problemset/task/1637/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/RemovingDigits.cpp)
