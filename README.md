@@ -28,7 +28,7 @@ Solved: 30/300
 #Day 3: 
  Problem | Solution
 ------------ | -------------
-[Apartments](https://cses.fi/problemset/task/1084) | [Two pointers](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/Apartments.cpp)
+[Apartments](https://cses.fi/problemset/task/1084) | [Two pointers](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/Apartments.cpp)
 [Minimizing Coins](https://cses.fi/problemset/task/1634) | [Dynamic programming (coin change)](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/MinimizingCoins.cpp)
 [Labyrinth](https://cses.fi/problemset/task/1193/) | [BFS and recovery](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/MissingNumber.cpp)
 [Static Range Minimum Queries](https://cses.fi/problemset/task/1647) | [Segtree](https://github.com/rangelp/CSES/blob/main/Range%20Queries/StaticRangeMinimumQueries.cpp)
@@ -40,7 +40,7 @@ Solved: 30/300
 ------------ | -------------
 [Tree Distances I](https://cses.fi/problemset/task/1132) | [Diameter of Graph](https://github.com/rangelp/CSES/blob/main/Tree%20Algorithms/TreeDistancesI.cpp)
 [Increasing Array](https://cses.fi/problemset/task/1094/) | [Greedy](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/IncreasingArray.cpp)
-[Ferris Wheel](https://cses.fi/problemset/task/1090/) | [Two pointers](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/FerrisWheel.cpp)
+[Ferris Wheel](https://cses.fi/problemset/task/1090/) | [Two pointers](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/FerrisWheel.cpp)
 [Coin Combinations I](https://cses.fi/problemset/task/1635/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/CoinCombinationsI.cpp)
 [Building Roads](https://cses.fi/problemset/task/1666/) | [DFS](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/BuildingRoads.cpp)
 
@@ -67,3 +67,4 @@ Solved: 30/300
 ------------ | -------------
 [Two Knights](https://cses.fi/problemset/task/1072) | [Math](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/TwoKnights.cpp)
 [Bit Strings](https://cses.fi/problemset/task/1617) | [Mod](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/BitStrings.cpp)
+[Concert Tickets](https://cses.fi/problemset/task/1091) | [set (binary search)](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/ConcertTickets.cpp)
