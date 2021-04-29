@@ -78,3 +78,4 @@ Solved: 30/300
 [Removing Digits](https://cses.fi/problemset/task/1637/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/RemovingDigits.cpp)
 [Tree Diameter](https://cses.fi/problemset/task/1131/) | [BFS](https://github.com/rangelp/CSES/blob/main/Tree%20Algorithms/TreeDiameter.cpp)
 [Trailing Zeros](https://cses.fi/problemset/task/1618/) | [Math](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/TrailingZeros.cpp)
+[Range Xor Queries](https://cses.fi/problemset/task/1650/) | [Segtree](https://github.com/rangelp/CSES/blob/main/Range%20Queries/RangeXorQueries.cpp)
