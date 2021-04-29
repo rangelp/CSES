@@ -69,3 +69,9 @@ Solved: 30/300
 [Bit Strings](https://cses.fi/problemset/task/1617) | [Mod](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/BitStrings.cpp)
 [Concert Tickets](https://cses.fi/problemset/task/1091) | [set (binary search)](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/ConcertTickets.cpp)
 [Restaurant Customers](https://cses.fi/problemset/task/1619/) | [set](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/RestaurantCustomers.cpp)
+[Message Route](https://cses.fi/problemset/task/1667/) | [BFS](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/MessageRoute.cpp)
+
+#Day 8: 
+ Problem | Solution
+------------ | -------------
+[Counting Divisors](https://cses.fi/problemset/task/1713/) | [Divisors O(sqrt(n))](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/TwoKnights.cpp)
