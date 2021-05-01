@@ -4,7 +4,7 @@ This is a personal challenge, that is, it will not always have the best solution
 
 Every day I will solve 5 problems.
 
-Solved: 40/300
+Solved: 45/300
 
 #Day 1: 
  Problem | Solution
@@ -79,3 +79,12 @@ Solved: 40/300
 [Tree Diameter](https://cses.fi/problemset/task/1131/) | [BFS](https://github.com/rangelp/CSES/blob/main/Tree%20Algorithms/TreeDiameter.cpp)
 [Trailing Zeros](https://cses.fi/problemset/task/1618/) | [Math](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/TrailingZeros.cpp)
 [Range Xor Queries](https://cses.fi/problemset/task/1650/) | [Segtree](https://github.com/rangelp/CSES/blob/main/Range%20Queries/RangeXorQueries.cpp)
+
+#Day 9: 
+ Problem | Solution
+------------ | -------------
+[Forest Queries](https://cses.fi/problemset/task/1652) | [2D-Prefix sum](https://github.com/rangelp/CSES/blob/main/Range%20Queries/ForestQueries.cpp)
+[Course Schedule II](https://cses.fi/problemset/task/1757) | [Topological sort modificated](https://github.com/rangelp/CSES/blob/main/Additional%20Problems/ShortestSubsequence.cpp)
+[Range Update Queries](https://cses.fi/problemset/task/1651/) | [Segtree](https://github.com/rangelp/CSES/blob/main/Range%20Queries/RangeUpdateQueries.cpp)
+[Grid Paths](https://cses.fi/problemset/task/1638/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/GridPaths.cpp)
+[Coin Piles](https://cses.fi/problemset/task/1754/) | [Math](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/CoinPiles.cpp)
