@@ -84,7 +84,7 @@ Solved: 45/300
  Problem | Solution
 ------------ | -------------
 [Forest Queries](https://cses.fi/problemset/task/1652) | [2D-Prefix sum](https://github.com/rangelp/CSES/blob/main/Range%20Queries/ForestQueries.cpp)
-[Course Schedule II](https://cses.fi/problemset/task/1757) | [Topological sort modificated](https://github.com/rangelp/CSES/blob/main/Additional%20Problems/ShortestSubsequence.cpp)
+[Course Schedule II](https://cses.fi/problemset/task/1757) | [Topological sort modificated](https://github.com/rangelp/CSES/blob/main/Additional%20Problems/CourseScheduleII.cpp)
 [Range Update Queries](https://cses.fi/problemset/task/1651/) | [Segtree](https://github.com/rangelp/CSES/blob/main/Range%20Queries/RangeUpdateQueries.cpp)
 [Grid Paths](https://cses.fi/problemset/task/1638/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/GridPaths.cpp)
 [Coin Piles](https://cses.fi/problemset/task/1754/) | [Math](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/CoinPiles.cpp)
