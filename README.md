@@ -88,3 +88,12 @@ Solved: 45/300
 [Range Update Queries](https://cses.fi/problemset/task/1651/) | [Segtree](https://github.com/rangelp/CSES/blob/main/Range%20Queries/RangeUpdateQueries.cpp)
 [Grid Paths](https://cses.fi/problemset/task/1638/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/GridPaths.cpp)
 [Coin Piles](https://cses.fi/problemset/task/1754/) | [Math](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/CoinPiles.cpp)
+
+#Day 10: 
+ Problem | Solution
+------------ | -------------
+[Palindrome Reorder](https://cses.fi/problemset/task/1755/) | [Ad-Hoc](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/PalindromeReorder.cpp)
+[Course Schedule II](https://cses.fi/problemset/task/1757) | [Topological sort modificated](https://github.com/rangelp/CSES/blob/main/Additional%20Problems/CourseScheduleII.cpp)
+[Range Update Queries](https://cses.fi/problemset/task/1651/) | [Segtree](https://github.com/rangelp/CSES/blob/main/Range%20Queries/RangeUpdateQueries.cpp)
+[Grid Paths](https://cses.fi/problemset/task/1638/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/GridPaths.cpp)
+[Coin Piles](https://cses.fi/problemset/task/1754/) | [Math](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/CoinPiles.cpp)
