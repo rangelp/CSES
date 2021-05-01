@@ -94,6 +94,6 @@ Solved: 45/300
 ------------ | -------------
 [Palindrome Reorder](https://cses.fi/problemset/task/1755/) | [Ad-Hoc](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/PalindromeReorder.cpp)
 [Movie Festival](https://cses.fi/problemset/task/1629/) | [Greed](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/MovieFestival.cpp)
-[Range Update Queries](https://cses.fi/problemset/task/1651/) | [Segtree](https://github.com/rangelp/CSES/blob/main/Range%20Queries/RangeUpdateQueries.cpp)
+[Book Shop](https://cses.fi/problemset/task/1158/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/BookShop.cpp)
 [Grid Paths](https://cses.fi/problemset/task/1638/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/GridPaths.cpp)
 [Coin Piles](https://cses.fi/problemset/task/1754/) | [Math](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/CoinPiles.cpp)
