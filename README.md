@@ -32,14 +32,14 @@ Solved: 45/300
 [Minimizing Coins](https://cses.fi/problemset/task/1634) | [Dynamic programming (coin change)](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/MinimizingCoins.cpp)
 [Labyrinth](https://cses.fi/problemset/task/1193/) | [BFS and recovery](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/MissingNumber.cpp)
 [Static Range Minimum Queries](https://cses.fi/problemset/task/1647) | [Segtree](https://github.com/rangelp/CSES/blob/main/Range%20Queries/StaticRangeMinimumQueries.cpp)
-[Repetitions](https://cses.fi/problemset/task/1069) | [Greedy](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/Repetitions.cpp)
+[Repetitions](https://cses.fi/problemset/task/1069) | [Greed](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/Repetitions.cpp)
 
 
 #Day 4: 
  Problem | Solution
 ------------ | -------------
 [Tree Distances I](https://cses.fi/problemset/task/1132) | [Diameter of Graph](https://github.com/rangelp/CSES/blob/main/Tree%20Algorithms/TreeDistancesI.cpp)
-[Increasing Array](https://cses.fi/problemset/task/1094/) | [Greedy](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/IncreasingArray.cpp)
+[Increasing Array](https://cses.fi/problemset/task/1094/) | [Greed](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/IncreasingArray.cpp)
 [Ferris Wheel](https://cses.fi/problemset/task/1090/) | [Two pointers](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/FerrisWheel.cpp)
 [Coin Combinations I](https://cses.fi/problemset/task/1635/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/CoinCombinationsI.cpp)
 [Building Roads](https://cses.fi/problemset/task/1666/) | [DFS](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/BuildingRoads.cpp)
@@ -50,7 +50,7 @@ Solved: 45/300
 [Exponentiation II](https://cses.fi/problemset/task/1712) | [Modular exponentiation and Euler's Totient](https://github.com/rangelp/CSES/blob/main/Mathematics/ExponentiationII.cpp)
 [Two Sets](https://cses.fi/problemset/task/1092/) | [Greedy](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/TwoSets.cpp)
 [Meet in the Middle](https://cses.fi/problemset/task/1628/) | [Meet in the middle and custom hash](https://github.com/rangelp/CSES/blob/main/Advanced%20Techniques/MeetInTheMiddle.cpp)
-[Permutations](https://cses.fi/problemset/task/1070/) | [Greedy](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/Permutations.cpp)
+[Permutations](https://cses.fi/problemset/task/1070/) | [Greed](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/Permutations.cpp)
 [Shortest Subsequence](https://cses.fi/problemset/task/1087/) | [Greedy](https://github.com/rangelp/CSES/blob/main/Additional%20Problems/ShortestSubsequence.cpp)
 
 #Day 6: 
@@ -93,7 +93,7 @@ Solved: 45/300
  Problem | Solution
 ------------ | -------------
 [Palindrome Reorder](https://cses.fi/problemset/task/1755/) | [Ad-Hoc](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/PalindromeReorder.cpp)
-[Course Schedule II](https://cses.fi/problemset/task/1757) | [Topological sort modificated](https://github.com/rangelp/CSES/blob/main/Additional%20Problems/CourseScheduleII.cpp)
+[Movie Festival](https://cses.fi/problemset/task/1629/) | [Greed](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/MovieFestival.cpp)
 [Range Update Queries](https://cses.fi/problemset/task/1651/) | [Segtree](https://github.com/rangelp/CSES/blob/main/Range%20Queries/RangeUpdateQueries.cpp)
 [Grid Paths](https://cses.fi/problemset/task/1638/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/GridPaths.cpp)
 [Coin Piles](https://cses.fi/problemset/task/1754/) | [Math](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/CoinPiles.cpp)
