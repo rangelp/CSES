@@ -95,5 +95,5 @@ Solved: 45/300
 [Palindrome Reorder](https://cses.fi/problemset/task/1755/) | [Ad-Hoc](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/PalindromeReorder.cpp)
 [Movie Festival](https://cses.fi/problemset/task/1629/) | [Greed](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/MovieFestival.cpp)
 [Book Shop](https://cses.fi/problemset/task/1158/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/BookShop.cpp)
-[Grid Paths](https://cses.fi/problemset/task/1638/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/GridPaths.cpp)
-[Coin Piles](https://cses.fi/problemset/task/1754/) | [Math](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/CoinPiles.cpp)
+[Building Teams](https://cses.fi/problemset/task/1668/) | [Bipartite graphs](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/BuildingTeams.cpp)
+[Sum of Two Values](https://cses.fi/problemset/task/1640/) | [Two pointers](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/SumofTwoValues.cpp)
