@@ -4,7 +4,7 @@ This is a personal challenge, that is, it will not always have the best solution
 
 Every day I will solve 5 problems.
 
-Solved: 45/300
+Solved: 50/300
 
 #Day 1: 
  Problem | Solution
