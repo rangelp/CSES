@@ -97,3 +97,13 @@ Solved: 50/300
 [Book Shop](https://cses.fi/problemset/task/1158/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/BookShop.cpp)
 [Building Teams](https://cses.fi/problemset/task/1668/) | [Bipartite graphs](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/BuildingTeams.cpp)
 [Sum of Two Values](https://cses.fi/problemset/task/1640/) | [Two pointers](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/SumofTwoValues.cpp)
+
+
+#Day 11: 
+ Problem | Solution
+------------ | -------------
+[Gray Code](https://cses.fi/problemset/task/2205) | [Ad-Hoc](https://github.com/rangelp/CSES/blob/main/Introductory%20Problems/GrayCode.cpp)
+[Movie Festival](https://cses.fi/problemset/task/1629/) | [Greed](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/MovieFestival.cpp)
+[Book Shop](https://cses.fi/problemset/task/1158/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/BookShop.cpp)
+[Building Teams](https://cses.fi/problemset/task/1668/) | [Bipartite graphs](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/BuildingTeams.cpp)
+[Sum of Two Values](https://cses.fi/problemset/task/1640/) | [Two pointers](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/SumofTwoValues.cpp)
