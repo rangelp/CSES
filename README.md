@@ -106,4 +106,4 @@ Solved: 50/300
 [Maximum Subarray Sum](https://cses.fi/problemset/task/1643/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Dynamic%20Programming/MaximumSubarraySum.cpp)
 [Counting Bits](https://cses.fi/problemset/task/1146/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Additional%20Problems/CountingBits.cpp)
 [Necessary Roads](https://cses.fi/problemset/task/2076/) | [Tarjan for bridges](https://github.com/rangelp/CSES/blob/main/Advanced%20Techniques/NecessaryRoads.cpp)
-[Sum of Two Values](https://cses.fi/problemset/task/1640/) | [Two pointers](https://github.com/rangelp/CSES/blob/main/Sorting%20and%20Searching/SumofTwoValues.cpp)
+[Common Divisors](https://cses.fi/problemset/task/1081/) | [Goto :p](https://github.com/rangelp/CSES/blob/main/Mathematics/CommonDivisors.cpp)
