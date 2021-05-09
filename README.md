@@ -107,3 +107,13 @@ Solved: 50/300
 [Counting Bits](https://cses.fi/problemset/task/1146/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Additional%20Problems/CountingBits.cpp)
 [Necessary Roads](https://cses.fi/problemset/task/2076/) | [Tarjan for bridges](https://github.com/rangelp/CSES/blob/main/Advanced%20Techniques/NecessaryRoads.cpp)
 [Common Divisors](https://cses.fi/problemset/task/1081/) | [Goto :p](https://github.com/rangelp/CSES/blob/main/Mathematics/CommonDivisors.cpp)
+
+#Day 12: 
+ Problem | Solution
+------------ | -------------
+[Range Updates and Sums](https://cses.fi/problemset/task/1735/) | [Segment Tree and Lazy Prop](https://github.com/rangelp/CSES/blob/main/Range%20Queries/RangeUpdatesandSums.cpp)
+[Round Trip](https://cses.fi/problemset/task/1669/) | [DFS](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/RoundTrip.cpp)
+[Counting Bits](https://cses.fi/problemset/task/1146/) | [Dynamic programming](https://github.com/rangelp/CSES/blob/main/Additional%20Problems/CountingBits.cpp)
+[Necessary Roads](https://cses.fi/problemset/task/2076/) | [Tarjan for bridges](https://github.com/rangelp/CSES/blob/main/Advanced%20Techniques/NecessaryRoads.cpp)
+[Common Divisors](https://cses.fi/problemset/task/1081/) | [Goto :p](https://github.com/rangelp/CSES/blob/main/Mathematics/CommonDivisors.cpp)
+
