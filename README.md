@@ -114,5 +114,5 @@ Solved: 50/300
 [Range Updates and Sums](https://cses.fi/problemset/task/1735/) | [Segment Tree and Lazy Prop](https://github.com/rangelp/CSES/blob/main/Range%20Queries/RangeUpdatesandSums.cpp)
 [Round Trip](https://cses.fi/problemset/task/1669/) | [DFS](https://github.com/rangelp/CSES/blob/main/Graph%20Algorithm/RoundTrip.cpp)
 [Salary Queries](https://cses.fi/problemset/task/1144/) | [Policy based](https://github.com/rangelp/CSES/blob/main/Range%20Queries/SalaryQueries.cpp)
-
+[Distinct Values Queries](https://cses.fi/problemset/task/1734/) | [Mo's](https://github.com/rangelp/CSES/blob/main/Range%20Queries/DistinctValuesQueries.cpp)
 
